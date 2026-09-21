@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/renan-silva-de-almeida-a11a6b331/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:[renan.almeida1927@gmail.com](mailto:renan.almeida1927@gmail.com)">
+  <a href="mailto:renan.almeida1927@gmail.com">
     <img src="https://img.shields.io/badge/Email-D32F2F?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
