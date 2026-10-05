@@ -54,3 +54,7 @@
 #### [EBO Device Simulator](https://github.com/renanllmd/EBO_device_simulator)
 
 Simulador de dispositivos para Schneider Electric EBO, desenvolvido com **Python, Flask e PyModbus** para simulação e testes.
+
+#### [ADmilkS](https://github.com/renanllmd/ADmilkS)
+Desenvolvido para auxiliar na administração e distribuição do programa **"Viva Leite"** . O sistema permite que administradores gerenciem os beneficiários e registrem as operações de entrega de leite.
+
